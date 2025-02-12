@@ -1,6 +1,6 @@
 #include<stdio.h>
-int main()
-{ int a,b,add;
-           add=a+b;
-		printf("addition of a and b",add)
+void main()
+{ int a=10,b=12;
+	printf("addition of a and b",a+b);
+	printf("subraction of a and b",a-b);
 }
