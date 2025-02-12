@@ -2,3 +2,5 @@ hi how are you
 i am fine
 amity CSE branch
 coding
+computer
+physics
