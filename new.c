@@ -4,7 +4,7 @@ int main()
 {float a,val;
 	printf("enter a number");
 		scanf("%d",&a);
-    val=pow(a,4);
+    val=pow(a,5);
     printf("cube of the num is");
     return 0;
 }
