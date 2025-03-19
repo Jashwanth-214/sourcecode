@@ -14,7 +14,7 @@ int main() {
             printf("%d ", num);
             num++;  // Increment number
         }
-        printf("\n");  // Move to next line
+        printf("\n"); 
        } 
 
      return 0;
